@@ -1,0 +1,71 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {"id":1, "title":"社会热点", "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"},
+      {"id":2, "title":"旅行·在路上", "imgUrl":"//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"},
+      {"id":3, "title":"摄影", "imgUrl":"//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"},
+      {"id":4, "title":"简书电影", "imgUrl":"//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"},
+      {"id":5, "title":"自然科普", "imgUrl":"//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"}
+    ],
+    "articleList": [
+      {
+        "id":1, 
+        "title":"书法是“学”出来的，不是“练”出来的",
+        "desc": "练字，我清晨又一杯茶。 有人练了多年书法．很刻苦，天天写，但是进步并不很大，而有的人学书法时间虽不很长，但进步很明显。学．向古人学。书法的学问在...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/5831394-5d057c1664734bdc.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id":2, 
+        "title":"普通人增加收入的6种可行方法",
+        "desc": "在简书上更文一年多以来，我发现了自己在增加收入的想法上犯了很多的错误。 一直以来，我都在无视自己的优势，盲目地想通过学习别人的优势、特点来增加自...",
+        "imgUrl": ""
+      },
+      {
+        "id":3, 
+        "title":"为什么接受了高等教育，我们依旧贫穷？",
+        "desc": "很多人总是会问这样一个问题，我们读了十几年的书，为什么还是过的很贫穷？ 读书的精神价值以及对个人全方位的正面影响自然是值得肯定的，但是从更实际的...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/11466417-6dbf497648664b25.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "recommandList": [
+      {
+        "id": 1,
+        "src": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+      },
+      {
+        "id": 2,
+        "src": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+      },
+      {
+        "id": 3,
+        "src": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 4,
+        "src": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 5,
+        "src": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ],
+    "authorList": [
+      {
+        "id":1,
+        "name": "布鲁斯·韦恩",
+        "imgUrl": "https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=31c48eaafb03918fc3dc359830544df2/f7246b600c338744b91bf6365d0fd9f9d62aa09a.jpg"
+      },
+      {
+        "id":2,
+        "name": "克拉克·肯特",
+        "imgUrl": "https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=315cb7d5272eb938f86072a0b40bee50/d043ad4bd11373f0e7b9dbabac0f4bfbfbed047b.jpg"
+      },
+      {
+        "id":3,
+        "name":"戴安娜·普林斯",
+        "imgUrl":"https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=28374323032442a7ba03f5f7b02ac62e/f9198618367adab4fc8b62e387d4b31c8701e433.jpg"
+      }
+    ]
+  }
+}

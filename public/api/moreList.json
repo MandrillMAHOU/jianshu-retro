@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "articleList": [
+      {
+        "id":4, 
+        "title":"书法是“学”出来的，不是“练”出来的",
+        "desc": "练字，我清晨又一杯茶。 有人练了多年书法．很刻苦，天天写，但是进步并不很大，而有的人学书法时间虽不很长，但进步很明显。学．向古人学。书法的学问在...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/5831394-5d057c1664734bdc.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id":5, 
+        "title":"普通人增加收入的6种可行方法",
+        "desc": "在简书上更文一年多以来，我发现了自己在增加收入的想法上犯了很多的错误。 一直以来，我都在无视自己的优势，盲目地想通过学习别人的优势、特点来增加自...",
+        "imgUrl": ""
+      },
+      {
+        "id":6, 
+        "title":"为什么接受了高等教育，我们依旧贫穷？",
+        "desc": "很多人总是会问这样一个问题，我们读了十几年的书，为什么还是过的很贫穷？ 读书的精神价值以及对个人全方位的正面影响自然是值得肯定的，但是从更实际的...",
+        "imgUrl": "//upload-images.jianshu.io/upload_images/11466417-6dbf497648664b25.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ]
+  }
+}
